@@ -59,25 +59,3 @@ npm install
 # Rodar o projeto
 npx expo start
 ```
-
----
-
-## 📂 Estrutura do Projeto (exemplo)
-
-```txt
-📁 projeto-login
- ├── 📁 assets
- ├── 📁 src
- │    ├── LoginFacebook.js
- │    ├── LoginTwitter.js
- │    └── styles.js
- ├── App.js
- └── README.md
-```
-
----
-
-## 📄 Observações
-
-* Todas as telas foram criadas manualmente.
-* As imagens originais serviram apenas como referência visual.
